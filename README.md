@@ -12,7 +12,7 @@ This project showcases famous tourist places state-wise, region-wise, and catego
 Add your deployed link here:
 
 ```bash
-https://thetravelbharat.netlify.app/
+https://travelbharat-eight.vercel.app/
 ````
 
 ---
